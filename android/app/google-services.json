@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69670890419",
+    "project_id": "bintehawwa-eda14",
+    "storage_bucket": "bintehawwa-eda14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69670890419:android:bd118e30bd50fa2ddb79c6",
+        "android_client_info": {
+          "package_name": "com.example.wsfty_apk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOWhCBT-OTd3vZ8xgYGez6Oqt4olRur8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
