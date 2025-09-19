@@ -20,10 +20,10 @@
 |----------------------|---------------------------------|
 | Cross-platform UI     | Flutter                        |
 | Language             | Dart                          |
-| State Management     | *(Your state management approach, e.g. Provider, Riverpod, Bloc, etc.)* |
-| Backend / APIs       | *(If you are using Firebase / REST / GraphQL, mention here)* |
-| Geo / Location       | *(Mention if using any packages for location tracking, maps, etc.)* |
-| Permissions & Security | Proper permissions, secure communication, etc. |
+| State Management     | Provider                      |
+| Backend / APIs       | Firebase and SupaBase         |
+| Geo / Location       | GEO Locator Dependency        |
+| Permissions & Security | location permissions, secure communication, etc. |
 
 ## 📂 Project Structure
 
