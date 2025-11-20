@@ -16,9 +16,9 @@ Future<void> main() async {
   await MySharedPrefferences.init();
   await initializeService();
   await Supabase.initialize(
-    url: 'https://uknuebqxoxrlpxnuedqg.supabase.co',
+    url: '',
     anonKey:
-        'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVrbnVlYnF4b3hybHB4bnVlZHFnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTI3NDg3NTEsImV4cCI6MjA2ODMyNDc1MX0.tiJ_BL82rgcnIdLzm8VOcIm0pEEsgTqj80-VkR2A7u4',
+        '',
     debug: true,
   );
   runApp(const MyApp());
