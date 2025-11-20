@@ -27,19 +27,6 @@
 
 ## 📂 Project Structure
 
-Women\_Safety\_app/
-├── android/
-├── ios/
-├── lib/
-│   ├── main.dart
-│   ├── screens/
-│   ├── widgets/
-│   ├── services/
-│   └── utils/
-├── assets/
-├── test/
-└── pubspec.yaml
-
 - **lib/** – Main Flutter code: UI, business logic, services.  
 - **assets/** – Images, icons, fonts, etc.  
 - **android/** & **ios/** – Platform-specific configuration.  
