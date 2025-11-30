@@ -2,7 +2,6 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
-import 'package:wsfty_apk/Screen/parent_home.dart';
 import 'package:wsfty_apk/Screen/splash_screen.dart';
 import 'package:wsfty_apk/components/bottom_bar.dart';
 import 'package:wsfty_apk/db/shared_pref.dart';

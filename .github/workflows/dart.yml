@@ -24,11 +24,11 @@ jobs:
           channel: 'stable'
 
       - name: Build APK
-        run: flutter build apk --release --split-per-abi
+        run: flutter build apk --release
 
       - name: Upload Release
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "build/app/outputs/flutter-apk/*.apk"
+          artifacts: build/app/outputs/flutter-apk/app-release.apk
           tag: v1.0.${{ github.run_number }}
           token: ${{ secrets.TOKEN }}
